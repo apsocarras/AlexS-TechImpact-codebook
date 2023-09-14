@@ -4,7 +4,7 @@
 
 This repository contains some of my helper functions and scripts for my day-to-day work as a Data Engineering Fellow at TechImpact. They may represent my contributions to a future standardized Python "codebook" for the whole Data Team.
 
-My speciifc plans at the moment are to:
+My specific plans at the moment are to:
 
 * Create some functions for commonplace workflows using Census data, extending the census and pygris packages.
 * Write a script for formatting street addresses into the preferred format of our [Geocoder](https://github.com/de-data-lab/Geocoding-Package). 
